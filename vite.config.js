@@ -16,6 +16,18 @@ export default defineConfig({
         target: 'https://nodejs308.dszcbaross.edu.hu',
         changeOrigin: true,
       },
+      '/orders': {
+        target: 'https://nodejs308.dszcbaross.edu.hu',
+        changeOrigin: true,
+      },
+      '/products': {
+        target: 'https://nodejs308.dszcbaross.edu.hu',
+        changeOrigin: true,
+      },
+      '/tervezo': {
+        target: 'https://nodejs308.dszcbaross.edu.hu',
+        changeOrigin: true,
+      },
     },
   },
 })
